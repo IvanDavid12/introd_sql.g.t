@@ -24,4 +24,4 @@ CREATE TABLE `Ventas`.`Cliente` (`identificacion` VARCHAR(15) NOT NULL , `nombre
 
 INSERT INTO `cliente` (`identificacion`, `nombre`, `apellidos`, `dirección`, `telefono`, `ciudad_nac`, `fecha_nac`) VALUES ('xxxxx', 'Kevin Daniel', 'Solano Cardenas', 'calle 1 # 16-03', '3197794793', 'bogota', '2007-05-01');
 
-![diccionario de datos](datos.png "diccionario de datos")
+![diccionario de datos](datos_2.png "diccionario de datos")
